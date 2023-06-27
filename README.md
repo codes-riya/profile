@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codes-riya&label=Profile%20views&color=0e75b6&style=flat" alt="codes-riya" /> </p>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 - 🔭 I’m currently working on **HTML/CSS Mini projects**
 
 - 🌱 I’m currently learning **JavaScript and some JS frameworks/libraries**
